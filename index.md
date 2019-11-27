@@ -2,8 +2,6 @@
 layout: default
 ---
 
-* * *
-
 # TODO
 
 - [자료조사 포스트](./test-korean-page.html).

@@ -5,7 +5,7 @@ tags: 쿠버네티스 AWS
 author: Kevin Cho
 ---
 
-## 한글 테스트 포스트
+## 자료조사
 
 - 쿠버네티스(k8n) 관련정보 수집
 - AWS Solution Architect 관련정보 수집
