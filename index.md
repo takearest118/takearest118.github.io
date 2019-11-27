@@ -2,10 +2,17 @@
 layout: default
 ---
 
+* * *
+
+# TODO
+
+- [자료조사 포스트](./test-korean-page.html).
+
+* * *
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
-[테스트 한글 페이지](./test-korean-page.html).
 
 There should be whitespace between paragraphs.
 
